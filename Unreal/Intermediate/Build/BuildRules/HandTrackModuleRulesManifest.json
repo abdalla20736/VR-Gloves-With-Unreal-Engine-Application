@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\abdal\\OneDrive\\Documents\\Unreal Projects\\HandTrack\\Source\\HandTrack\\HandTrack.Build.cs",
+		"C:\\Users\\abdal\\OneDrive\\Documents\\Unreal Projects\\HandTrack\\Plugins\\AxesLock\\Source\\AxisLocker\\AxisLocker.Build.cs",
+		"C:\\Users\\abdal\\OneDrive\\Documents\\Unreal Projects\\HandTrack\\Plugins\\UDP-Unreal-master\\Source\\UDPWrapper\\UDPWrapper.Build.cs",
+		"C:\\Users\\abdal\\OneDrive\\Documents\\Unreal Projects\\HandTrack\\Source\\HandTrack.Target.cs",
+		"C:\\Users\\abdal\\OneDrive\\Documents\\Unreal Projects\\HandTrack\\Source\\HandTrackEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

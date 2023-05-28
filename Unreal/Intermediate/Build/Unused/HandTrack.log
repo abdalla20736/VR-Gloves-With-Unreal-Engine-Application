@@ -1,0 +1,31 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\abdal\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for HandTrackEditor (working set of source files changed)
+  Parsing headers for HandTrackEditor
+    Running UnrealHeaderTool "C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\HandTrack.uproject" "C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Intermediate\Build\Win64\HandTrackEditor\Development\HandTrackEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\abdal\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for HandTrackEditor in 14.7111485 seconds
+  Building HandTrackEditor...
+  Using Visual Studio 2022 14.35.32215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from HandTrack unity file: CustomFunctions.cpp, HandTrack.cpp, HandTrackCharacter.cpp, HandTrackGameMode.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 3.79 GB available: limiting max parallel actions to 2
+  Building 10 actions with 2 processes...
+  [1/10] Compile HandTrack.init.gen.cpp
+  [2/10] Compile CustomFunctions.cpp
+  [3/10] Compile CustomFunctions.gen.cpp
+  [4/10] Link UnrealEditor-HandTrack-0011.lib
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Intermediate\Build\Win64\UnrealEditor\Development\HandTrack\UnrealEditor-HandTrack-0011.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Intermediate\Build\Win64\UnrealEditor\Development\HandTrack\UnrealEditor-HandTrack-0011.exp
+  [5/10] Link UnrealEditor-UDPWrapper-0011.dll
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\UDP-Unreal-master\Intermediate\Build\Win64\UnrealEditor\Development\UDPWrapper\UnrealEditor-UDPWrapper-0011.suppressed.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\UDP-Unreal-master\Intermediate\Build\Win64\UnrealEditor\Development\UDPWrapper\UnrealEditor-UDPWrapper-0011.suppressed.exp
+  [6/10] Link UnrealEditor-UDPWrapper-0011.lib
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\UDP-Unreal-master\Intermediate\Build\Win64\UnrealEditor\Development\UDPWrapper\UnrealEditor-UDPWrapper-0011.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\UDP-Unreal-master\Intermediate\Build\Win64\UnrealEditor\Development\UDPWrapper\UnrealEditor-UDPWrapper-0011.exp
+  [7/10] Link UnrealEditor-AxisLocker-0011.lib
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\AxesLock\Intermediate\Build\Win64\UnrealEditor\Development\AxisLocker\UnrealEditor-AxisLocker-0011.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\AxesLock\Intermediate\Build\Win64\UnrealEditor\Development\AxisLocker\UnrealEditor-AxisLocker-0011.exp
+  [8/10] Link UnrealEditor-AxisLocker-0011.dll
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\AxesLock\Intermediate\Build\Win64\UnrealEditor\Development\AxisLocker\UnrealEditor-AxisLocker-0011.suppressed.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Plugins\AxesLock\Intermediate\Build\Win64\UnrealEditor\Development\AxisLocker\UnrealEditor-AxisLocker-0011.suppressed.exp
+  [9/10] Link UnrealEditor-HandTrack-0011.dll
+     Creating library C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Intermediate\Build\Win64\UnrealEditor\Development\HandTrack\UnrealEditor-HandTrack-0011.suppressed.lib and object C:\Users\abdal\OneDrive\Documents\Unreal Projects\HandTrack\Intermediate\Build\Win64\UnrealEditor\Development\HandTrack\UnrealEditor-HandTrack-0011.suppressed.exp
+  [10/10] WriteMetadata HandTrackEditor.target
+  Total time in Parallel executor: 15.50 seconds
+  Total execution time: 72.29 seconds
