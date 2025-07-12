@@ -51,14 +51,15 @@ Demonstrated the functionality of a custom VR glove integrated with an Unreal En
 ## 📸 Screenshots & Media
 
 ### 🧤 Glove Hardware
-![Glove ]([docs/images/glove_setup.jpg](https://github.com/abdalla20736/VR-Gloves-With-Unreal-Engine-Application/assets/55684848/cca43621-73fc-4c31-94de-339744a04dd2))
+![Glove ](https://github.com/abdalla20736/VR-Gloves-With-Unreal-Engine-Application/assets/55684848/cca43621-73fc-4c31-94de-339744a04dd2)
 
 ### 🎮 In-Game
-![VR Hand in Unreal Engine]([docs/images/hand_tracking.jpg](https://github.com/abdalla20736/VR-Gloves-With-Unreal-Engine-Application/assets/55684848/3b800d79-7623-4e1c-bb57-5a2be8be6da4))
+![VR Hand in Unreal Engine](https://github.com/abdalla20736/VR-Gloves-With-Unreal-Engine-Application/assets/55684848/3b800d79-7623-4e1c-bb57-5a2be8be6da4)
 
 ## 📁 Folder Structure
-/UnrealProject ### Unreal Engine project files
-/ESP32_Code ### Arduino IDE code for ESP32
+### Unreal Engine project files
+- [`/UnrealProject`](./Unreal) – Unreal Engine project files
+- [`/ESP32_Code`](./Arduino) – Arduino IDE code for ESP32 (sensor reading + UDP transmission)
 
 
 
