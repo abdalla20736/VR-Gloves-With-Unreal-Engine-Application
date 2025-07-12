@@ -58,8 +58,8 @@ Demonstrated the functionality of a custom VR glove integrated with an Unreal En
 
 ## 📁 Folder Structure
 ### Unreal Engine project files
-- [`/UnrealProject`](./Unreal) – Unreal Engine project files
-- [`/ESP32_Code`](./Arduino) – Arduino IDE code for ESP32 (sensor reading + UDP transmission)
+- [`Unreal`](./Unreal) – Unreal Engine project files
+- [`Arduino`](./Arduino) – Arduino IDE code for ESP32 (sensor reading + UDP transmission)
 
 
 
