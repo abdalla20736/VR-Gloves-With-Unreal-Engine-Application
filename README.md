@@ -1,6 +1,6 @@
 # 🧤 Immersive VR Game with Glove-Based Input Integration
 
-Demonstrated the functionality of a custom VR glove integrated with an Unreal Engine game through a real-time testing video. The project highlights glove-based input detection, gesture responsiveness, and immersive gameplay mechanics. This video showcases the successful interaction between hardware and software, emphasizing smooth tracking, in-game feedback, and user control precision in a virtual environment.
+Demonstrated the functionality of a custom VR glove integrated with an Unreal Engine game through a real-time testing video. The project highlights glove-based input detection, gesture responsiveness, and immersive gameplay mechanics.This example illustrates the successful interaction between hardware and software, emphasizing smooth tracking, in-game feedback, and user control precision in a virtual environment.
 
 ## 🧠 Project Summary
 
